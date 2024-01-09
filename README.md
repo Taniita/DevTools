@@ -1,6 +1,6 @@
 Devtools HW
 
-This list of tasks is displayed in the video DevTools_HW:
+This list of tasks is displayed in the video DevTools_HW :
 
  Открыть сайт http://itcareer.pythonanywhere.com/
  
